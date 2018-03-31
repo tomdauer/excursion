@@ -1,5 +1,7 @@
 body {
-  font-family: Verdana;
+  text-align: center;
+  font-family: Verdana, sans-serif;
+  color: white;
   background-color: black;
 }
 h1 {
@@ -7,4 +9,21 @@ h1 {
   font-size: 50px;
   text-align: center;
   color: white;
+}
+.download {
+  texgt-align: center;
+  font-size: 16px;
+  color: aquamarine;
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+.description {
+  color: gray;
+  text-size: 21px;
+}
+.footer {
+  text-align: right;
+  color: gray;
 }
